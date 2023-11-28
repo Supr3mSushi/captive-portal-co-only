@@ -2,7 +2,7 @@
 
 ## Table of Contents 🏠
 1. [Installation](#installation)
-2. [Personal Machine Setup](#personnal-machine-setup-🌐)
+2. [Personal Machine Setup](#personal-machine-setup-🌐)
 3. [Code Customization](#code-customization)
 4. [Compatibility](#compatibility)
 5. [Contributions](#contributions)
