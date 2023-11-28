@@ -2,7 +2,7 @@
 
 ## Table of Contents 🏠
 1. [Installation](#installation)
-2. [Personnal Machine Setup](#personnal-machine-setup)
+2. [Personal Machine Setup](#personnal-machine-setup)
 3. [Code Customization](#code-customization)
 4. [Compatibility](#compatibility)
 5. [Contributions](#contributions)
@@ -46,6 +46,7 @@ This captive portal is compatible with OPNSense, PfSense, and other platforms, i
 
 ## Contributions 🤝
 Contributions are welcome ! Feel free to open an issue or submit a pull request to enhance this project.
+
 
 ## Author 👤
 This project was initiated and developed by [Sushi](https://github.com/Supr3mSushi).
